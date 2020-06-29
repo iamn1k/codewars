@@ -1,1 +1,1 @@
-My solution on site codewars.com
+My solution on site www.codewars.com
